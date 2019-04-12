@@ -146,7 +146,7 @@ def makePolygonShpFromDictList(dictList,shpFnOut):
 path = u"C:\\Users\\armstrongwh\\Google Drive\\appstate\\projects\\lakes\\gis\\sampleshapefile\\"
 fn = 'T1987Mala59140.shp'
 
-fnOut = path + 'test7.shp' # output filename
+fnOut = path + 'T1987Mala59140_polygons.shp' # output filename
 
 
 ## PROCESSING
